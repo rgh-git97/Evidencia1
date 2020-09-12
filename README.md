@@ -27,4 +27,4 @@ _La aplicación al ser totalmente portable podrá ser ejecutado en cualquier sis
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Lincese Ruben Guerrero) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (Lincese Ruben Guerrero) 
